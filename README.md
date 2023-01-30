@@ -34,8 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto #boraCodar 03 é um app para verificar e realizar testes de estilos de botões e cursores.
 
-- [Visite o projeto online](https://stefanobrener.github.io/
-  chalenge-3-boraCodar/)
+- [Visite o projeto online](https://stefanobrener.github.io/chalenge-3-boraCodar/)
 
 ## 🔖 Layout
 
