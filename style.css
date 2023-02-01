@@ -42,7 +42,7 @@ p {
   display: flex;
 }
 
-.primary-buttons {
+/* .primary-buttons {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -61,7 +61,7 @@ p {
   flex-direction: column;
   justify-content: space-around;
   gap: 16px;
-}
+} */
 
 .primary {
   --bg-default: #8257e5;
